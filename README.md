@@ -1,6 +1,6 @@
 # Gen-AI
 
-A simple Generative AI application built using Node.js, and Google's Gemini API.
+A simple chatbot built using Node.js, and Google's Gemini API.
 
 ## Prerequisites
 
